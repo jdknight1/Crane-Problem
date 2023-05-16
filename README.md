@@ -1,7 +1,12 @@
 # Project 2: Dynamic vs. Exhaustive - Crane unloading problem
 # CPSC 335 - Algorithm Engineering
 # Spring 2023
+# Members:
+
+**Jair De Orta   jairdeorta@csu.fullerton.edu
+
 # Instructor: Himani Tawade
+
 
 **Clone This repository into your repository and implement the code, along with a document with required details mentioned at the last, a demo video, readme file and .gitignore file. Submission will be a git repo link with all the requirements updated to repo on canvas.**
 
